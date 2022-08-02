@@ -61,7 +61,7 @@ Markdown can be intimidating at the beginning. Here is how to get started with t
 * If you copy an image from the web, it will create a markup with the image link.
 * If you copy an image from your computer it will automatically save the image inside assets `assets/like-this.png`
 * There are emojis! Type : and search for what you looking for. 👊 🏠 🏁 👌 🚀️
-* Home and End keyboard button doesn't work. :/ But you can use `cmd + arrow keys` and `alt + arrow keys` to jump thru words.
+* Home and End keyboard button doesn't work. :/ But you can use `cmd + arrow keys` and `alt + arrow keys` to jump through words.
 * You can export to HTML.
 
 ### Markdown Editor: problems
