@@ -25,9 +25,9 @@
 | ![alt text](URL) | Image                       | ![profile pic](https://github.com/petry078.png) |
 | \                | Disable Markdown style      | Works with:  ``` * # - + !                      |
 |==================|=============================|=================================================|
-|                  |                             |                                                 | 
-| |Table           | Column         | Another column      | How many you need  |                   | 
-| |----------------|----------------|---------------------|--------------------|                   |                         
+|                  |                             |                                                 |
+| |Table           | Column         | Another column      | How many you need  |                   |
+| |----------------|----------------|---------------------|--------------------|                   |
 | | Table item     | Column item    | Another column item | This is a md table |                   |
 ```
 
