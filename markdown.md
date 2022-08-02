@@ -69,6 +69,8 @@ Markdown can be intimidating at the beginning. Here is how to get started with t
 * Lists doesn't work really well. The buttons to add lists can break others lists, and it will always add a black line on top of the list.
 * Creating tables inside the visual editor is nice and easy, but it will break the original Markdown file.
 
-### Markdown Editor: conclusion
+## Conclusion
 
-The Markdown Editor by zaaack works fine and can be very useful in cases you need to copy and paste marked content from the web and don't have time to mark every thing again. But you still need to edit the raw .md file.
+The Markdown Editor by zaaack works fine and can be very useful in cases you need to copy and paste marked content from the web and don't have time to mark every thing again. But you still need to edit the raw .md file before pushing it to GitHub.
+
+[Visit this GitHub documentation about Markdown to learn more.](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
