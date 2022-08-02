@@ -33,30 +33,42 @@
 
 ## Tips
 
-* On VS Code, you can open the preview tab with ```cmd + shift + v```;
-* Make sure you have a white space " " after an markup symbol;
-* Always test if it works on you environment. Not every browser or website renders all Markdown styles;
+* On VS Code, you can open the preview tab with `cmd + shift + V`;
+* Drag the preview tab to the right until you see it trying to divide the screen in two.
+* Make sure you have a white space " " after a markup symbol;
+* Always test if it works on your environment. Not every browser or website renders all Markdown styles;
 * Markdown accept HTML tags. So if you can't make it with native Markdown, use HTML tags (this includes CSS and JavaScript);
 * It is important to edit Markdown using monospaced fonts. Like the VS Code standard, Courier New or Roboto Mono.
 * Keep a black line after a marked one. For example:
-  
-  # Example
+
+  > Example
 
   Just like this!
 
-## Productivity extensions
+## Markdown Editor
 
-Markdown can be intimidating at the beginning. Here is how to get started and be productive:
-
-### Markdown Editor by zaaack
+Markdown can be intimidating at the beginning. Here is how to get started with the visual Markdown Editor:
 
 * [Download here!](https://marketplace.visualstudio.com/items?itemName=zaaack.markdown-editor)
 * Install the extension on VS Code;
-* Right-click the file you need to edit and select `Open with markdown editor` or type `colocar aqui o comando`.
-  
-#### Markdown Editor usage
+* Right-click the file you need to edit and select `Open with markdown editor` or type `alt + shift + cmd + M`.
 
-* You can copy & paste text with links and styles (and pictures) from Google Docs and every other web pages. Nice! 🚀️
-* There's emojis! Type : and search for what you looking for. 👊 🏠 🏁 👌
-* Lists doesn't work well. You may need to go back to the original .md file and ajust.  😕
-* Home & End keyboard button doesn't work. 👎
+### Markdown Editor: usage
+
+* Show the menu bar.
+* If you use light themes on VS Code, you need to adjust this at `... > Content Theme Preview`
+* You can copy & paste text with links and styles (and pictures) from Google Docs and every other web pages.
+* If you copy an image from the web, it will create a markup with the image link.
+* If you copy an image from your computer it will automatically save the image inside assets `assets/like-this.png`
+* There are emojis! Type : and search for what you looking for. 👊 🏠 🏁 👌 🚀️
+* Home and End keyboard button doesn't work. :/ But you can use `cmd + arrow keys` and `alt + arrow keys` to jump thru words.
+* You can export to HTML.
+
+### Markdown Editor: problems
+
+* Lists doesn't work really well. The buttons to add lists can break others lists, and it will always add a black line on top of the list.
+* Creating tables inside the visual editor is nice and easy, but it will break the original Markdown file.
+
+### Markdown Editor: conclusion
+
+The Markdown Editor by zaaack works fine and can be very useful in cases you need to copy and paste marked content from the web and don't have time to mark every thing again. But you still need to edit the raw .md file.
