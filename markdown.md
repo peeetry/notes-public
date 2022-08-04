@@ -4,18 +4,18 @@
 
 ## Markdown cheat sheet
 
-```
+```html
 | Markup syntax    | Name                        | Description & Examples                          |
 |------------------|-----------------------------|-------------------------------------------------|
-| #                | Heading 1<h1>               | # Article title or the main heading             |
-| ##               | Heading 2<h2>               | ## Subtitle or as I like to call "heading 2"    |
-| ###              | Heading 3<h3>               | ### Do you get the point, right?                |
-| ####             | Heading 4<h4>               | #### This is rare, but can happen               |
-| #####            | Heading 5<h5>               | ##### Never seen one                            |
-| ######           | Heading 6<h6>               | ###### Stop! Don't you even think...            |
+| #                | Heading 1 <h1>              | # Article title or the main heading             |
+| ##               | Heading 2 <h2>              | ## Subtitle or as I like to call "heading 2"    |
+| ###              | Heading 3 <h3>              | ### Do you get the point, right?                |
+| ####             | Heading 4 <h4>              | #### This is rare, but can happen               |
+| #####            | Heading 5 <h5>              | ##### Never seen one                            |
+| ######           | Heading 6 <h6>              | ###### Stop! Don't you even think...            |
 | **bold**         | Bold                        | This is an **bold** example                     |
 | *italic*         | Italic                      | This is an *italic* example                     |
-| ---              | Line<hr>                    | Just a line break (*** ___ are alternatives)    |
+| ---              | Line <hr>                   | Just a line break (*** ___ are alternatives)    |
 | >                | Quote/Comment               | > Comment styled line                           |
 | *                | Unordered list item         | * List item (- + are alternatives)              |
 | 1.               | Number ordered list item    | 1. Just like this!                              |
@@ -26,11 +26,12 @@
 | [text](URL)      | Hyperlink                   | [Download here!](https://google.com)            |
 | ![alt text](URL) | Image                       | ![profile pic](https://github.com/petry078.png) |
 | \                | Disable Markdown style      | Works with:  ``` * # - + !                      |
-|==================|=============================|=================================================|
-|                  |                             |                                                 |
-| |Table           | Column         | Another column      | How many you need  |                   |
-| |----------------|----------------|---------------------|--------------------|                   |
-| | Table item     | Column item    | Another column item | This is a md table |                   |
+|------------------|-----------------------------|-------------------------------------------------|
+|                                                                                                  |
+|                    | left align     |   centralized   |     right align |                        |
+|                    |:---------------|:---------------:|----------------:|                        |
+|                    | text           |      text       |            text |                        |
+|                                                                                                  |
 ```
 
 ## Tips
