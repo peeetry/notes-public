@@ -1,6 +1,6 @@
 # Markdown basics and visual editor
 
-[Slides presentation here](https://docs.google.com/presentation/d/10B6tbwWuJW0ep0AG7XX-vsMXZa2ZCFqpKmyVqZWtRvk/edit?usp=sharing)
+[Slides presentation here](https://docs.google.com/presentation/d/10B6tbwWuJW0ep0AG7XX-vsMXZa2ZCFqpKmyVqZWtRvk/edit?usp=sharing)    
 
 ## Markdown cheat sheet
 
