@@ -2,6 +2,8 @@
 
 *"The grand unified theory of documentation", David Laing*
 
+![](https://diataxis.fr/_images/diataxis.png)
+
 [This guide](https://diataxis.fr/_/downloads/en/latest/pdf/) "aims to solve the problem of structure in technical documentation", separating all documentation in four "modes", (types/categories):
 
 * Tutorials;
