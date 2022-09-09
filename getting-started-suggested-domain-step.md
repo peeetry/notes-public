@@ -4,6 +4,8 @@ Now that you have your **Edge Application**, we are going to set up a *domain* f
 
 On **Real-Time Manager**, your main domain (like `myapp.com`) and all your *subdomains* (like `user.myapp.com`) must be configured each, as a standalone *domain*.
 
+<!--Comentário-->
+
 You can access the *Domains* configuration page from the homepage or by clicking the *Products Menu*.
 
 > If you just created and **Edge Application** from *Build from scratch* you can find this page on the "What do you want to do next" section below.
