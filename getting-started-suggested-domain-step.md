@@ -10,13 +10,13 @@ You can access the *Domains* configuration page from the homepage or by clicking
 
 On the *Domains* page, you see all your **Edge Applications**. Click on "Add Domain" and:
 
-* Define an "Configuration Name" by clicking "Add Configuration Name". This should be the same as your **domain name**;
-* Select the **Digital Certificate** (can be the standard Azion [SAN] or any third party Digital Certificate).
-* Write all Canonical Names (CNAMES) your domain has.
-* Mark if you want your users to access your application by CNAME only.
-* Select **Edge Application**.
-* Make sure it is `Active`.
-* Save it!
+1. Define an "Configuration Name" by clicking "Add Configuration Name". This should be the same as your **domain name**;
+1. Select the **Digital Certificate** (can be the standard Azion [SAN] or any third party Digital Certificate).
+1. Write all Canonical Names (CNAMES) your domain has.
+1. Mark if you want your users to access your application by CNAME only.
+1. Select **Edge Application**.
+1. Make sure it is `Active`.
+1. Save it!
 
 ### Domain provider configuration
 
